@@ -1,0 +1,6 @@
+{
+  "Name": "ARCA_Commons",
+  "ProjectType": "Library",
+  "Description": "Blank Library",
+  "MainFile": "NewActivity.xaml"
+}
