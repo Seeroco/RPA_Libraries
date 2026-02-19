@@ -1,0 +1,6 @@
+{
+  "Name": "MEI_AddOns",
+  "ProjectType": "Library",
+  "Description": "Actividades adicionales del framework MEI",
+  "MainFile": "NewActivity.xaml"
+}
